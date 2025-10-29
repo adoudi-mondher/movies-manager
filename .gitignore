@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+.env
+add-col.py
+
+# Node.js
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CSV ou fichiers de données
+*.csv
+*.xlsx
