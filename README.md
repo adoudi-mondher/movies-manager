@@ -20,7 +20,6 @@ Movies Manager is a Python-based application designed to manage and analyze movi
 ```
 movies-manager/
 ├── menu.py               # Main interactive interface
-├── add-col.py            # Script to add columns to CSV files
 ├── movies.csv            # Movie dataset
 ├── documentaries.csv     # Documentary dataset
 ├── .gitignore            # Git ignore rules
