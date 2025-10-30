@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📝 Changelog
 
-### v2.0.0 (2024-XX-XX)
+### v2.0.0 (10-30-2024)
 - **BREAKING CHANGE**: New UI requires `inquirer` and `rich` packages
 - Added interactive menu with arrow key navigation
 - Added rich terminal styling and colors
