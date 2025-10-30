@@ -1,8 +1,10 @@
 # 🎬 Movies Manager
 
-**Version 2.0.0** • **Python 3.8+** • **MIT License**
-
 Movies Manager is a Python-based application designed to manage and analyze movie data stored in CSV files. It features both a classic command-line interface and a modern interactive UI with rich styling.
+
+![Version](https://img.shields.io/badge/version-2.0.0-blue)
+![Python](https://img.shields.io/badge/python-3.8+-green)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
 ---
 
